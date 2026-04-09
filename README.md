@@ -16,27 +16,38 @@ To explore the platform, please use the input examples provided in this reposito
 ## Development Team
 
 **Mauricio G. S. Costa**  
-PROCC – FIOCRUZ | VPEIC – FIOCRUZ  
-🔗 ORCID: https://orcid.org/0000-0001-5443-286X  
-✉️ Email: mauricio.costa@fiocruz.br  
+Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
+Vice-Presidência de Educação, Informação e Comunicação (VPEIC) – Fundação Oswaldo Cruz (Fiocruz)  
+ORCID: https://orcid.org/0000-0001-5443-286X  
+Email: mauricio.costa@fiocruz.br  
+
+---
 
 **Nathalia P. D. Nigro**  
-IOC – FIOCRUZ | PROCC – FIOCRUZ  
-🔗 ORCID: https://orcid.org/0000-0001-5443-286X  
-✉️ Email: nathaliapdnigro@gmail.com  
+Mestranda em Biologia Computacional e Sistemas – Instituto Oswaldo Cruz (IOC), Fundação Oswaldo Cruz (Fiocruz)  
+Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
+ORCID: https://orcid.org/0000-0001-5443-286X  
+Email: nathaliapdnigro@gmail.com  
+
+---
 
 **Paula F. C. Franklin**  
-IOC – FIOCRUZ | PROCC – FIOCRUZ  
-🔗 ORCID: https://orcid.org/0009-0008-7481-1689  
-✉️ Email: paulafcfranklin@gmail.com  
+Doutoranda em Biologia Computacional e Sistemas – Instituto Oswaldo Cruz (IOC), Fundação Oswaldo Cruz (Fiocruz)  
+Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
+ORCID: https://orcid.org/0009-0008-7481-1689  
+Email: paulafcfranklin@gmail.com  
+
+---
 
 **Prof. Roberta Soares Faccion**  
-UFRJ – Instituto de Biofísica  
-🔗 ORCID: https://orcid.org/0000-0002-9502-0324  
-✉️ Email: robsfaccion@gmail.com  
+Instituto de Biofísica Carlos Chagas Filho – Universidade Federal do Rio de Janeiro (UFRJ)  
+ORCID: https://orcid.org/0000-0002-9502-0324  
+Email: robsfaccion@gmail.com  
+
+---
 
 **Zilton F. M. Vasconcelos**  
-IFF – FIOCRUZ  
-🔗 ORCID: https://orcid.org/0000-0002-2193-2224  
-✉️ Email: zilton.vasconcelos@fiocruz.br  
+Laboratório de Alta Complexidade – Instituto Fernandes Figueira (IFF), Fundação Oswaldo Cruz (Fiocruz)  
+ORCID: https://orcid.org/0000-0002-2193-2224  
+Email: zilton.vasconcelos@fiocruz.br  
 
