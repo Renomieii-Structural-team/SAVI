@@ -10,3 +10,5 @@
 The platform is freely accessible to all users (including for commercial use) promoting collaboration and innovation in genomic research.
 
 🔗 **Access SAVI:** https://mcosta27.shinyapps.io/shiny63/
+
+To explore the platform, please use the input examples provided in this repository. For each gene available in the dashboard, we include variants classified as VUS according to ClinVar.
