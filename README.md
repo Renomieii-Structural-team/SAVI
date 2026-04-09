@@ -1,5 +1,5 @@
 # SAVI
-## Structure-Assisted Variant Interpretation
+## Structure Assisted Variant Interpretation
 
 <p align="center">
   <img src="savi.png" alt="SAVI logo" width="50%">
