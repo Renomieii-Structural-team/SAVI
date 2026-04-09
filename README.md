@@ -24,7 +24,7 @@ Email: mauricio.costa@fiocruz.br
 **Nathalia P. D. Nigro**  
 Mestranda em Biologia Computacional e Sistemas – Instituto Oswaldo Cruz (IOC), Fundação Oswaldo Cruz (Fiocruz)  
 Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
-ORCID: https://orcid.org/0009-0004-4213-5672 
+ORCID: https://orcid.org/0009-0004-4213-5672  
 Email: nathaliapdnigro@gmail.com  
 
 **Paula F. C. Franklin**  
