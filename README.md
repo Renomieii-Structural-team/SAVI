@@ -1,8 +1,12 @@
 # SAVI
-## Structure Assisted Variant Interpretation
+## Structure-Assisted Variant Interpretation
 
-<img src="savi.png" alt="Alt text" width="20%">
+<p align="center">
+  <img src="savi.png" alt="SAVI logo" width="20%">
+</p>
 
-SAVI provides comprehensive tools and insights for the interpretation of missense genetic variants, empowering researchers and clinicians to uncover the significance of uncertain variants. The platform is freely accessible to all users, including in commercial settings, fostering collaboration and innovation in genomic research.
+**SAVI** is a platform designed to support the interpretation of missense genetic variants. It provides comprehensive tools and insights to help researchers and clinicians better understand the potential impact of variants of uncertain significance.
 
-Link: https://mcosta27.shinyapps.io/shiny63/
+The platform is freely accessible to all users — including for commercial use — promoting collaboration and innovation in genomic research.
+
+🔗 **Access SAVI:** https://mcosta27.shinyapps.io/shiny63/
