@@ -5,9 +5,9 @@
   <img src="savi.png" alt="SAVI logo" width="100%">
 </p>
 
-**SAVI** is a platform designed to support the interpretation of missense genetic variants. It provides comprehensive tools and insights to help researchers and clinicians better understand the potential impact of variants of uncertain significance.
+**SAVI** (Structure-Assisted Variant Interpretation) is an R-based dashboard that offers a transparent, user-friendly framework for variant interpretation and classification. The tool integrates ACMG/AMP criteria, literature data, functional annotations, in silico predictions, and structural analyses to interpret and reclassify genetic variants.
 
-The platform is freely accessible to all users (including for commercial use) promoting collaboration and innovation in genomic research.
+The increasing number of Variants of Uncertain Significance (VUS) poses a major challenge for clinicians, researchers, and patients. Re-interpretation of these variants can substantially influence diagnostic outcomes for individuals with inconclusive results. By integrating structural biophysical analyses, AI-driven predictions, and functional data on target gene-encoded proteins, we seek to provide actionable insights for variant interpretation.
 
 🔗 **Access SAVI:** https://mcosta27.shinyapps.io/shiny63/
 
