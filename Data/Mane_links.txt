@@ -1,0 +1,6 @@
+Gene	NM	Link
+ADA2	NM_001282225.2	https://www.ncbi.nlm.nih.gov/datasets/gene/51816/#summary
+CDC42	NM_001791.4	https://www.ncbi.nlm.nih.gov/datasets/gene/998/
+STING1	NM_198282.4	https://www.ncbi.nlm.nih.gov/datasets/gene/340061/#summary
+TBK1	NM_013254.4	https://www.ncbi.nlm.nih.gov/datasets/gene/29110/
+WDR1	NM_017491.5	https://www.ncbi.nlm.nih.gov/datasets/gene/9948/
