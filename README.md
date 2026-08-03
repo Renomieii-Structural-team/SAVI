@@ -8,13 +8,13 @@
 
 The increasing number of Variants of Uncertain Significance (VUS) poses a major challenge for clinicians, researchers, and patients. Re-interpretation of these variants can substantially influence diagnostic outcomes for individuals with inconclusive results. By integrating structural biophysical analyses, AI-driven predictions, and functional data on target gene-encoded proteins, we seek to provide actionable insights for variant interpretation.
 
-🔗 **Access SAVI:** https://mcosta27.shinyapps.io/SAVI
+🔗 **Access ProtSAVI:** https://mcosta27.shinyapps.io/SAVI
 
 To explore the platform, please use the input examples provided in this repository. For each gene available in the dashboard, we include variants classified as VUS according to ClinVar.
 
-## Running SAVI locally
+## Running ProtSAVI locally
 
-To run SAVI locally, you must have **R** (or **RStudio**) installed, along with the required packages listed below.
+To run ProtSAVI locally, you must have **R** (or **RStudio**) installed, along with the required packages listed below.
 
 ### Required package versions
 
