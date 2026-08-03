@@ -1,7 +1,7 @@
 # SAVI - Structure-Assisted Variant Interpretation
 
 <p align="center">
-  <img src="savi.png" alt="SAVI logo" width="100%">
+  <img src="ProtSAVI.png" alt="SAVI logo" width="100%">
 </p>
 
 **SAVI** (Structure-Assisted Variant Interpretation) is an R-based dashboard that offers a transparent, user-friendly framework for variant interpretation and classification. The tool integrates ACMG/AMP criteria, literature data, functional annotations, in silico predictions, and structural analyses to interpret and reclassify genetic variants.
