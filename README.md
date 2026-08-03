@@ -1,10 +1,10 @@
-# SAVI - Structure-Assisted Variant Interpretation
+# ProtSAVI
 
 <p align="center">
   <img src="ProtSAVI.png" alt="SAVI logo" width="50%">
 </p>
 
-**SAVI** (Structure-Assisted Variant Interpretation) is an R-based dashboard that offers a transparent, user-friendly framework for variant interpretation and classification. The tool integrates ACMG/AMP criteria, literature data, functional annotations, in silico predictions, and structural analyses to interpret and reclassify genetic variants.
+**ProtSAVI** (Protein Structure-Assisted Variant Interpretation) is an R-based dashboard that offers a transparent, user-friendly framework for variant interpretation and classification. The tool integrates ACMG/AMP criteria, literature data, functional annotations, in silico predictions, and structural analyses to interpret and reclassify genetic variants.
 
 The increasing number of Variants of Uncertain Significance (VUS) poses a major challenge for clinicians, researchers, and patients. Re-interpretation of these variants can substantially influence diagnostic outcomes for individuals with inconclusive results. By integrating structural biophysical analyses, AI-driven predictions, and functional data on target gene-encoded proteins, we seek to provide actionable insights for variant interpretation.
 
