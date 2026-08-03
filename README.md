@@ -12,6 +12,30 @@ The increasing number of Variants of Uncertain Significance (VUS) poses a major 
 
 To explore the platform, please use the input examples provided in this repository. For each gene available in the dashboard, we include variants classified as VUS according to ClinVar.
 
+## Running SAVI locally
+
+To run SAVI locally, you must have **R** (or **RStudio**) installed, along with the required packages listed below.
+
+### Required package versions
+
+The application was developed and tested using the following package versions:
+
+| Package | Version |
+|----------|---------|
+| here | 1.0.1 |
+| rio | 1.2.3 |
+| tidyverse | 2.0.0 |
+| readr | 2.1.4 |
+| stringr | 1.5.1 |
+| colorspace | 2.1.0 |
+| shiny | 1.8.1.1 |
+| shinyWidgets | 0.8.6 |
+| DT | 0.28 |
+| NGLVieweR | 1.3.4 |
+| plotly | 4.10.4 |
+| shinyjs | 2.1.0 |
+| bslib | 0.7.0 |
+
 ## Development Team
 
 **Mauricio G. S. Costa**  
