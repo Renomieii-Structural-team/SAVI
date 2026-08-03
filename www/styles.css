@@ -1,0 +1,102 @@
+/* ===========================
+   FONTE GLOBAL (Montserrat)
+   =========================== */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+
+/* ===========================
+   LINHA DE DIVISÃO
+   =========================== */
+hr {
+  border: none;
+  height: 2px;
+  background-color: #4F8F8B;
+  margin: 1.5em 0;
+}
+
+/* ===========================
+   LINKS (opcional, elegante)
+   =========================== */
+a {
+  color: #4F8F8B;
+}
+
+a:hover {
+  color: #3b6f6c;
+}
+
+/* ===========================
+   ÁREA PRINCIPAL MAIS LARGA
+   =========================== */
+.main-container {
+  max-width: 95%;
+}
+
+/* ===========================
+   AJUSTE DO TOC FLUTUANTE
+   =========================== */
+.tocify {
+  width: 220px;
+}
+
+/* Conteúdo alinhado ao lado do TOC */
+.tocify + .section {
+  margin-left: 230px;
+}
+
+/* ===========================
+   CORREÇÃO DEFINITIVA DAS REFERÊNCIAS
+   =========================== */
+#refs,
+.references,
+.csl-bib-body {
+  max-width: 800px !important;
+  margin: auto !important;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+  color: #000000;
+}
+
+/* Cada entrada da bibliografia */
+.csl-entry {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+.content-green {
+  max-width: 800px;
+  margin: auto;
+  text-align: justify;
+  color: #4F8F8B;
+}
+
+.offset-left {
+  margin-left: -30px;
+}
+
+.split {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+  margin: 30px 0;
+}
+
+.split-text {
+  flex: 1;
+}
+
+.split-img img {
+  max-width: 280px;
+  height: auto;
+  border-radius: 8px;
+}
