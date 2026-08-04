@@ -37,9 +37,10 @@ ProtSAVI was developed and tested using the following package versions:
 | shinyWidgets | 0.8.6 |
 | DT | 0.28 |
 | NGLVieweR | 1.3.4 |
-| plotly | 4.10.4 |
+| plotly | 4.12.0 |
 | shinyjs | 2.1.0 |
 | bslib | 0.7.0 |
+| ggplot2 | 3.5.1 |
 
 ## Development Team
 
