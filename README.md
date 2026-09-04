@@ -19,7 +19,7 @@ To run **ProtSAVI** locally, you need to have **R** and **RStudio** installed, a
 1. Clone this repository or download it as a ZIP file.
 2. Open the project in **RStudio**.
 3. Install the required packages (see table below).
-4. Run the `ProtSAVI_v2.R` script to launch the application.
+4. Run the `ProtSAVI.R` script to launch the application.
 
 ### Required package versions
 
