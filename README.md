@@ -42,31 +42,6 @@ ProtSAVI was developed and tested using the following package versions:
 | bslib | 0.7.0 |
 | ggplot2 | 3.5.1 |
 
-## Development Team
-
-**Mauricio G. S. Costa**  
-Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
-Vice-Presidência de Educação, Informação e Comunicação (VPEIC) – Fundação Oswaldo Cruz (Fiocruz)  
-ORCID: https://orcid.org/0000-0001-5443-286X  
-Email: mauricio.costa@fiocruz.br  
-
-**Nathalia P. D. Nigro**  
-Mestranda em Biologia Computacional e Sistemas – Instituto Oswaldo Cruz (IOC), Fundação Oswaldo Cruz (Fiocruz)  
-Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
-ORCID: https://orcid.org/0009-0004-4213-5672  
-Email: nathaliapdnigro@gmail.com  
-
-**Paula F. C. Franklin**  
-Doutoranda em Biologia Computacional e Sistemas – Instituto Oswaldo Cruz (IOC), Fundação Oswaldo Cruz (Fiocruz)  
-Programa de Computação Científica (PROCC) – Fundação Oswaldo Cruz (Fiocruz)  
-ORCID: https://orcid.org/0009-0008-7481-1689  
-Email: paulafcfranklin@gmail.com  
-
-**Prof. Roberta Soares Faccion**  
-Instituto de Biofísica Carlos Chagas Filho – Universidade Federal do Rio de Janeiro (UFRJ)  
-ORCID: https://orcid.org/0000-0002-9502-0324  
-Email: robsfaccion@gmail.com  
-
 **Zilton F. M. Vasconcelos**  
 Laboratório de Alta Complexidade – Instituto Fernandes Figueira (IFF), Fundação Oswaldo Cruz (Fiocruz)  
 ORCID: https://orcid.org/0000-0002-2193-2224  
