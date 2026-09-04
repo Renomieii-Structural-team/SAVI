@@ -42,8 +42,3 @@ ProtSAVI was developed and tested using the following package versions:
 | bslib | 0.7.0 |
 | ggplot2 | 3.5.1 |
 
-**Zilton F. M. Vasconcelos**  
-Laboratório de Alta Complexidade – Instituto Fernandes Figueira (IFF), Fundação Oswaldo Cruz (Fiocruz)  
-ORCID: https://orcid.org/0000-0002-2193-2224  
-Email: zilton.vasconcelos@fiocruz.br  
-
